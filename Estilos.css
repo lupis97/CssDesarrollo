@@ -1,0 +1,40 @@
+*{
+    background-color: cornsilk;
+}
+h1{
+    background-color: rgb(17, 136, 27);
+}
+h2{
+    background-color: darkgoldenrod;
+}
+*{
+    margin: 120;
+    padding: 100;
+}
+.color1{
+    color: yellow;
+}
+.color2{
+    color: wheat;
+}
+.color3{
+    color: green;
+}
+p {
+    color: maroon;
+}
+th{
+    color: yellowgreen;
+}
+li{
+    color: maroon;
+}
+table{
+    border: 1px solid black;
+    width: 60%;
+}
+table td{
+    padding: 15px;
+    border: 1px solid black;
+}
+
